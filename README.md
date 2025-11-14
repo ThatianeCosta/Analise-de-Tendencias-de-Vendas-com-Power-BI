@@ -1,4 +1,4 @@
-# Analise-de-Tendencias-de-Vendas-com-Power-BI
+# Análise de Tendências de Vendas com Power BI 📊
 
 Este repositório abriga um projeto que explora dados da Olist, uma plataforma que conecta vendedores a importantes marketplaces no Brasil. A finalidade deste trabalho é importar, tratar e analisar quatro bases de dados distintas utilizando o Power Query dentro do Power BI, com o objetivo de oferecer insights significativos sobre vendas e comportamento dos consumidores.
 
