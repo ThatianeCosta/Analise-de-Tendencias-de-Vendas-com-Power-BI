@@ -2,6 +2,9 @@
 
 Este repositório abriga um projeto que explora dados da Olist, uma plataforma que conecta vendedores a importantes marketplaces no Brasil. A finalidade deste trabalho é importar, tratar e analisar quatro bases de dados distintas utilizando o Power Query dentro do Power BI, com o objetivo de oferecer insights significativos sobre vendas e comportamento dos consumidores.
 
+<img src="Olist/Power-Query1.png" width="700px" />
+
+
 ### Estruturas de Dados Importadas
 As seguintes bases de dados foram incluídas no projeto:
 
