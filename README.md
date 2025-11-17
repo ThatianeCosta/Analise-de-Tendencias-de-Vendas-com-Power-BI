@@ -33,7 +33,7 @@ As seguintes bases de dados foram incluídas no projeto:
 - Clique em "Obter Dados" e selecione "Arquivo &gt; JSON".
 - Carregue o arquivo de produtos e revise sua estrutura.
 
-### Tratamento de Dados no Power Query
+### Tratamento de Dados no Power Query 𝄜
 Durante o tratamento dos dados, utilizei diversas funcionalidades do Power Query, incluindo:
 
 - **Coluna de Exemplo**: Empregada para limpar a coluna "Tipo de Pagamentos", removendo duplicatas e substituindo valores inadequados.
@@ -43,13 +43,13 @@ Durante o tratamento dos dados, utilizei diversas funcionalidades do Power Query
 - **Mesclagem de Consultas**: Combinei consultas para relacionar dados entre diferentes tabelas.
 - **Substituição de Valores**: A ferramenta "Substituir Valores" foi útil para realizar alterações na coluna "Payment Type".
 
-### Manipulação Avançada
+### Manipulação Avançada ⚙️
 Aprofundei em técnicas como Coluna Personalizada e na criação de parâmetros via "Gerenciar Parâmetros" no Power Query. Aprendi também a resolver problemas relacionados à tipagem automática, definindo manualmente os tipos de dados. Renomeei colunas e otimizei as etapas aplicadas pelo Editor Avançado, melhorando a performance ao eliminar etapas desnecessárias e unificando processos.
 
-### Modelagem de Dados
+### Modelagem de Dados 모
 A modelagem de dados se revelou crucial para transformar essas informações brutas em insights valiosos. Consegui integrar várias fontes de dados e construir dashboards interativos que destacam o desempenho das vendas.
 
-### Criação de Dashboard
+### Criação de Dashboard 👩🏻‍💻
 O projeto inclui um dashboard com três visualizações:
 
 - **Gráfico de Tabela**: Mostra o tipo de pagamento em relação à contagem de IDs de pedidos.
@@ -58,7 +58,7 @@ O projeto inclui um dashboard com três visualizações:
 
 Esses gráficos proporcionam uma visualização clara e intuitiva dos dados, facilitando análises e decisões estratégicas.
 
-### Conclusão
+### Conclusão ✔
 Este projeto exemplifica como ferramentas como Power BI e Power Query podem ser utilizadas para converter dados brutos em informações acionáveis. Espero que este repositório seja útil para aqueles que desejam aprofundar seus conhecimentos em análise de dados e modelagem no Power BI!
 
 Sinta-se à vontade para explorar e adaptar as técnicas apresentadas aqui em seus próprios projetos!
