@@ -5,7 +5,7 @@ Este repositório abriga um projeto que explora dados da Olist, uma plataforma q
 <img src="Olist/Power-Query1.png" width="700px" />
 
 
-### Estruturas de Dados Importadas
+### Estruturas de Dados Importadas 📑
 As seguintes bases de dados foram incluídas no projeto:
 
 1. **Pedidos (xlsx)**: Concentra informações sobre todos os pedidos realizados.
@@ -13,7 +13,7 @@ As seguintes bases de dados foram incluídas no projeto:
 3. **Pagamentos (xml)**: Apresenta informações sobre os pagamentos efetuados.
 4. **Produtos (json)**: Oferece detalhes sobre os produtos vendidos.
 
-### Processo de Importação dos Dados
+### Processo de Importação dos Dados 🗃️
 
 **Pedidos (xlsx)**  
 - Acesse a guia "Página Inicial" no Power BI.
